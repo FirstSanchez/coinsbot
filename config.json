@@ -1,0 +1,7 @@
+{
+    "bot": {
+        "token": "YOUR_BOT_TOKEN",
+        "guildId": "YOUR_GUILD_ID",
+        "roleId": "ROLE_ID_TO_GIVE_BY_BOT",
+    }
+}

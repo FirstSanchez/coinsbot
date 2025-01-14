@@ -1,0 +1,12 @@
+{
+    "name": "sincity-rolebot",
+    "version": "1.0.0",
+    "description": "FIRSTSANCHEZ Discord Bot für automatische Rollenvergabe",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.14.1"
+    }
+}
